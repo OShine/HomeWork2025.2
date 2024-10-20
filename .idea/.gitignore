@@ -1,3 +1,6 @@
 # Default ignored files
-/shelf/
+/target
+/bin
 /workspace.xml
+.db
+.log
